@@ -31,8 +31,8 @@ A RESTful API for managing movie data, including user authentication and authori
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/D-4-DIBAKAR/Movies-API.git
-   cd Movies-API
+   git clone https://github.com/D-4-DIBAKAR/Movie-Management-API.git
+   cd Movie-Management-API
    ```
 
 2. Install dependencies:
