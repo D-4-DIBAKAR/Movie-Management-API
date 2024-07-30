@@ -1,0 +1,764 @@
+[
+     {
+          "name": "Inception",
+          "description": "A thief who steals corporate secrets through the use of dream-sharing technology.",
+          "duration": 148,
+          "ratings": 8.8,
+          "totalRatings": 2000000,
+          "releaseYear": 2010,
+          "releaseDate": "2010-07-16",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Sci-Fi"
+          ],
+          "directors": [
+               "Christopher Nolan"
+          ],
+          "coverImage": "https://example.com/inception.jpg",
+          "actors": [
+               "Leonardo DiCaprio",
+               "Joseph Gordon-Levitt",
+               "Elliot Page"
+          ],
+          "price": 19.99
+     },
+     {
+          "name": "The Matrix",
+          "description": "A computer hacker learns about the true nature of reality and his role in the war against its controllers.",
+          "duration": 136,
+          "ratings": 8.7,
+          "totalRatings": 1600000,
+          "releaseYear": 1999,
+          "releaseDate": "1999-03-31",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Sci-Fi"
+          ],
+          "directors": [
+               "Lana Wachowski",
+               "Lilly Wachowski"
+          ],
+          "coverImage": "https://example.com/thematrix.jpg",
+          "actors": [
+               "Keanu Reeves",
+               "Laurence Fishburne",
+               "Carrie-Anne Moss"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "Interstellar",
+          "description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+          "duration": 169,
+          "ratings": 8.6,
+          "totalRatings": 1500000,
+          "releaseYear": 2014,
+          "releaseDate": "2014-11-07",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Adventure",
+               "Drama",
+               "Sci-Fi"
+          ],
+          "directors": [
+               "Christopher Nolan"
+          ],
+          "coverImage": "https://example.com/interstellar.jpg",
+          "actors": [
+               "Matthew McConaughey",
+               "Anne Hathaway",
+               "Jessica Chastain"
+          ],
+          "price": 19.99
+     },
+     {
+          "name": "The Dark Knight",
+          "description": "Batman faces the Joker, a criminal mastermind who wants to plunge Gotham City into anarchy.",
+          "duration": 152,
+          "ratings": 9.0,
+          "totalRatings": 2300000,
+          "releaseYear": 2008,
+          "releaseDate": "2008-07-18",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Christopher Nolan"
+          ],
+          "coverImage": "https://example.com/thedarkknight.jpg",
+          "actors": [
+               "Christian Bale",
+               "Heath Ledger",
+               "Aaron Eckhart"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "Forrest Gump",
+          "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man.",
+          "duration": 142,
+          "ratings": 8.8,
+          "totalRatings": 1900000,
+          "releaseYear": 1994,
+          "releaseDate": "1994-07-06",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Romance"
+          ],
+          "directors": [
+               "Robert Zemeckis"
+          ],
+          "coverImage": "https://example.com/forrestgump.jpg",
+          "actors": [
+               "Tom Hanks",
+               "Robin Wright",
+               "Gary Sinise"
+          ],
+          "price": 12.99
+     },
+     {
+          "name": "Pulp Fiction",
+          "description": "The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+          "duration": 154,
+          "ratings": 8.9,
+          "totalRatings": 1700000,
+          "releaseYear": 1994,
+          "releaseDate": "1994-10-14",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Quentin Tarantino"
+          ],
+          "coverImage": "https://example.com/pulpfiction.jpg",
+          "actors": [
+               "John Travolta",
+               "Uma Thurman",
+               "Samuel L. Jackson"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Fight Club",
+          "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into something much more.",
+          "duration": 139,
+          "ratings": 8.8,
+          "totalRatings": 1800000,
+          "releaseYear": 1999,
+          "releaseDate": "1999-10-15",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama"
+          ],
+          "directors": [
+               "David Fincher"
+          ],
+          "coverImage": "https://example.com/fightclub.jpg",
+          "actors": [
+               "Brad Pitt",
+               "Edward Norton",
+               "Meat Loaf"
+          ],
+          "price": 11.99
+     },
+     {
+          "name": "The Shawshank Redemption",
+          "description": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+          "duration": 142,
+          "ratings": 9.3,
+          "totalRatings": 2500000,
+          "releaseYear": 1994,
+          "releaseDate": "1994-09-23",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama"
+          ],
+          "directors": [
+               "Frank Darabont"
+          ],
+          "coverImage": "https://example.com/shawshank.jpg",
+          "actors": [
+               "Tim Robbins",
+               "Morgan Freeman",
+               "Bob Gunton"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "The Godfather",
+          "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+          "duration": 175,
+          "ratings": 9.2,
+          "totalRatings": 1600000,
+          "releaseYear": 1972,
+          "releaseDate": "1972-03-24",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Francis Ford Coppola"
+          ],
+          "coverImage": "https://example.com/godfather.jpg",
+          "actors": [
+               "Marlon Brando",
+               "Al Pacino",
+               "James Caan"
+          ],
+          "price": 17.99
+     },
+     {
+          "name": "The Lord of the Rings: The Return of the King",
+          "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+          "duration": 201,
+          "ratings": 8.9,
+          "totalRatings": 1700000,
+          "releaseYear": 2003,
+          "releaseDate": "2003-12-17",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Adventure",
+               "Drama",
+               "Fantasy"
+          ],
+          "directors": [
+               "Peter Jackson"
+          ],
+          "coverImage": "https://example.com/lotrreturn.jpg",
+          "actors": [
+               "Elijah Wood",
+               "Viggo Mortensen",
+               "Ian McKellen"
+          ],
+          "price": 18.99
+     },
+     {
+          "name": "The Silence of the Lambs",
+          "description": "A young FBI cadet must receive the help of an incarcerated and manipulative cannibal killer to catch another serial killer, a madman who skins his victims.",
+          "duration": 118,
+          "ratings": 8.6,
+          "totalRatings": 1200000,
+          "releaseYear": 1991,
+          "releaseDate": "1991-02-14",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama",
+               "Thriller"
+          ],
+          "directors": [
+               "Jonathan Demme"
+          ],
+          "coverImage": "https://example.com/silence.jpg",
+          "actors": [
+               "Jodie Foster",
+               "Anthony Hopkins",
+               "Lawrence A. Bonney"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Schindler's List",
+          "description": "In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+          "duration": 195,
+          "ratings": 8.9,
+          "totalRatings": 1200000,
+          "releaseYear": 1993,
+          "releaseDate": "1993-12-15",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Biography",
+               "Drama",
+               "History"
+          ],
+          "directors": [
+               "Steven Spielberg"
+          ],
+          "coverImage": "https://example.com/schindlerslist.jpg",
+          "actors": [
+               "Liam Neeson",
+               "Ralph Fiennes",
+               "Ben Kingsley"
+          ],
+          "price": 15.99
+     },
+     {
+          "name": "Saving Private Ryan",
+          "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action.",
+          "duration": 169,
+          "ratings": 8.6,
+          "totalRatings": 1200000,
+          "releaseYear": 1998,
+          "releaseDate": "1998-07-24",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "War"
+          ],
+          "directors": [
+               "Steven Spielberg"
+          ],
+          "coverImage": "https://example.com/savingprivateryan.jpg",
+          "actors": [
+               "Tom Hanks",
+               "Matt Damon",
+               "Tom Sizemore"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "Star Wars: Episode IV - A New Hope",
+          "description": "Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee, and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the mysterious Darth Vader.",
+          "duration": 121,
+          "ratings": 8.6,
+          "totalRatings": 1200000,
+          "releaseYear": 1977,
+          "releaseDate": "1977-05-25",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Adventure",
+               "Fantasy"
+          ],
+          "directors": [
+               "George Lucas"
+          ],
+          "coverImage": "https://example.com/starwarsiv.jpg",
+          "actors": [
+               "Mark Hamill",
+               "Harrison Ford",
+               "Carrie Fisher"
+          ],
+          "price": 12.99
+     },
+     {
+          "name": "Jurassic Park",
+          "description": "During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.",
+          "duration": 127,
+          "ratings": 8.1,
+          "totalRatings": 900000,
+          "releaseYear": 1993,
+          "releaseDate": "1993-06-11",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Adventure",
+               "Sci-Fi",
+               "Thriller"
+          ],
+          "directors": [
+               "Steven Spielberg"
+          ],
+          "coverImage": "https://example.com/jurassicpark.jpg",
+          "actors": [
+               "Sam Neill",
+               "Laura Dern",
+               "Jeff Goldblum"
+          ],
+          "price": 12.99
+     },
+     {
+          "name": "The Lion King",
+          "description": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself.",
+          "duration": 88,
+          "ratings": 8.5,
+          "totalRatings": 1000000,
+          "releaseYear": 1994,
+          "releaseDate": "1994-06-24",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Animation",
+               "Adventure",
+               "Drama"
+          ],
+          "directors": [
+               "Roger Allers",
+               "Rob Minkoff"
+          ],
+          "coverImage": "https://example.com/thelionking.jpg",
+          "actors": [
+               "Matthew Broderick",
+               "Jeremy Irons",
+               "James Earl Jones"
+          ],
+          "price": 11.99
+     },
+     {
+          "name": "Gladiator",
+          "description": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery.",
+          "duration": 155,
+          "ratings": 8.5,
+          "totalRatings": 1300000,
+          "releaseYear": 2000,
+          "releaseDate": "2000-05-05",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Adventure",
+               "Drama"
+          ],
+          "directors": [
+               "Ridley Scott"
+          ],
+          "coverImage": "https://example.com/gladiator.jpg",
+          "actors": [
+               "Russell Crowe",
+               "Joaquin Phoenix",
+               "Connie Nielsen"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Titanic",
+          "description": "A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+          "duration": 195,
+          "ratings": 7.8,
+          "totalRatings": 1100000,
+          "releaseYear": 1997,
+          "releaseDate": "1997-12-19",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Romance"
+          ],
+          "directors": [
+               "James Cameron"
+          ],
+          "coverImage": "https://example.com/titanic.jpg",
+          "actors": [
+               "Leonardo DiCaprio",
+               "Kate Winslet",
+               "Billy Zane"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "The Avengers",
+          "description": "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+          "duration": 143,
+          "ratings": 8.0,
+          "totalRatings": 1100000,
+          "releaseYear": 2012,
+          "releaseDate": "2012-05-04",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Adventure",
+               "Sci-Fi"
+          ],
+          "directors": [
+               "Joss Whedon"
+          ],
+          "coverImage": "https://example.com/avengers.jpg",
+          "actors": [
+               "Robert Downey Jr.",
+               "Chris Evans",
+               "Scarlett Johansson"
+          ],
+          "price": 15.99
+     },
+     {
+          "name": "Avatar",
+          "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+          "duration": 162,
+          "ratings": 7.8,
+          "totalRatings": 1000000,
+          "releaseYear": 2009,
+          "releaseDate": "2009-12-18",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Action",
+               "Adventure",
+               "Fantasy"
+          ],
+          "directors": [
+               "James Cameron"
+          ],
+          "coverImage": "https://example.com/avatar.jpg",
+          "actors": [
+               "Sam Worthington",
+               "Zoe Saldana",
+               "Sigourney Weaver"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "Braveheart",
+          "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+          "duration": 178,
+          "ratings": 8.3,
+          "totalRatings": 900000,
+          "releaseYear": 1995,
+          "releaseDate": "1995-05-24",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Biography",
+               "Drama",
+               "History"
+          ],
+          "directors": [
+               "Mel Gibson"
+          ],
+          "coverImage": "https://example.com/braveheart.jpg",
+          "actors": [
+               "Mel Gibson",
+               "Sophie Marceau",
+               "Patrick McGoohan"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Goodfellas",
+          "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",
+          "duration": 146,
+          "ratings": 8.7,
+          "totalRatings": 900000,
+          "releaseYear": 1990,
+          "releaseDate": "1990-09-21",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Biography",
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Martin Scorsese"
+          ],
+          "coverImage": "https://example.com/goodfellas.jpg",
+          "actors": [
+               "Robert De Niro",
+               "Ray Liotta",
+               "Joe Pesci"
+          ],
+          "price": 12.99
+     },
+     {
+          "name": "The Departed",
+          "description": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston.",
+          "duration": 151,
+          "ratings": 8.5,
+          "totalRatings": 1200000,
+          "releaseYear": 2006,
+          "releaseDate": "2006-10-06",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama",
+               "Thriller"
+          ],
+          "directors": [
+               "Martin Scorsese"
+          ],
+          "coverImage": "https://example.com/thedeparted.jpg",
+          "actors": [
+               "Leonardo DiCaprio",
+               "Matt Damon",
+               "Jack Nicholson"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Whiplash",
+          "description": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential.",
+          "duration": 106,
+          "ratings": 8.5,
+          "totalRatings": 750000,
+          "releaseYear": 2014,
+          "releaseDate": "2014-10-10",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Music"
+          ],
+          "directors": [
+               "Damien Chazelle"
+          ],
+          "coverImage": "https://example.com/whiplash.jpg",
+          "actors": [
+               "Miles Teller",
+               "J.K. Simmons",
+               "Melissa Benoist"
+          ],
+          "price": 11.99
+     },
+     {
+          "name": "The Wolf of Wall Street",
+          "description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+          "duration": 180,
+          "ratings": 8.2,
+          "totalRatings": 1000000,
+          "releaseYear": 2013,
+          "releaseDate": "2013-12-25",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Biography",
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Martin Scorsese"
+          ],
+          "coverImage": "https://example.com/wolfofwallstreet.jpg",
+          "actors": [
+               "Leonardo DiCaprio",
+               "Jonah Hill",
+               "Margot Robbie"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "12 Angry Men",
+          "description": "A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.",
+          "duration": 96,
+          "ratings": 9.0,
+          "totalRatings": 700000,
+          "releaseYear": 1957,
+          "releaseDate": "1957-04-10",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama"
+          ],
+          "directors": [
+               "Sidney Lumet"
+          ],
+          "coverImage": "https://example.com/12angrymen.jpg",
+          "actors": [
+               "Henry Fonda",
+               "Lee J. Cobb",
+               "Martin Balsam"
+          ],
+          "price": 10.99
+     },
+     {
+          "name": "The Green Mile",
+          "description": "The lives of guards on Death Row are affected by one of their charges: a black man accused of child murder and rape, yet who has a mysterious gift.",
+          "duration": 189,
+          "ratings": 8.6,
+          "totalRatings": 1100000,
+          "releaseYear": 1999,
+          "releaseDate": "1999-12-10",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Crime",
+               "Drama",
+               "Fantasy"
+          ],
+          "directors": [
+               "Frank Darabont"
+          ],
+          "coverImage": "https://example.com/greenmile.jpg",
+          "actors": [
+               "Tom Hanks",
+               "Michael Clarke Duncan",
+               "David Morse"
+          ],
+          "price": 12.99
+     },
+     {
+          "name": "The Prestige",
+          "description": "After a tragic accident, two stage magicians engage in a battle to create the ultimate illusion while sacrificing everything they have to outwit each other.",
+          "duration": 130,
+          "ratings": 8.5,
+          "totalRatings": 1100000,
+          "releaseYear": 2006,
+          "releaseDate": "2006-10-20",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Mystery",
+               "Sci-Fi"
+          ],
+          "directors": [
+               "Christopher Nolan"
+          ],
+          "coverImage": "https://example.com/prestige.jpg",
+          "actors": [
+               "Christian Bale",
+               "Hugh Jackman",
+               "Scarlett Johansson"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "Inglourious Basterds",
+          "description": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same.",
+          "duration": 153,
+          "ratings": 8.3,
+          "totalRatings": 1000000,
+          "releaseYear": 2009,
+          "releaseDate": "2009-08-21",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Adventure",
+               "Drama",
+               "War"
+          ],
+          "directors": [
+               "Quentin Tarantino"
+          ],
+          "coverImage": "https://example.com/inglouriousbasterds.jpg",
+          "actors": [
+               "Brad Pitt",
+               "Diane Kruger",
+               "Eli Roth"
+          ],
+          "price": 14.99
+     },
+     {
+          "name": "Django Unchained",
+          "description": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation-owner in Mississippi.",
+          "duration": 165,
+          "ratings": 8.4,
+          "totalRatings": 1200000,
+          "releaseYear": 2012,
+          "releaseDate": "2012-12-25",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Western"
+          ],
+          "directors": [
+               "Quentin Tarantino"
+          ],
+          "coverImage": "https://example.com/djangounchained.jpg",
+          "actors": [
+               "Jamie Foxx",
+               "Christoph Waltz",
+               "Leonardo DiCaprio"
+          ],
+          "price": 13.99
+     },
+     {
+          "name": "The Shining",
+          "description": "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.",
+          "duration": 146,
+          "ratings": 8.4,
+          "totalRatings": 900000,
+          "releaseYear": 1980,
+          "releaseDate": "1980-06-13",
+          "createdAt": "2024-07-02",
+          "genres": [
+               "Drama",
+               "Horror"
+          ],
+          "directors": [
+               "Stanley Kubrick"
+          ],
+          "coverImage": "https://example.com/theshining.jpg",
+          "actors": [
+               "Jack Nicholson",
+               "Shelley Duvall",
+               "Danny Lloyd"
+          ],
+          "price": 11.99
+     }
+]
